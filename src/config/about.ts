@@ -1,6 +1,6 @@
 export const aboutConfig = {
-  title: "About Me",
-  description: "This is where you can introduce yourself or your company. Share your story, mission, and values. Explain what makes you unique and why people should be interested in your work. Keep it concise but engaging.",
+  title: "Henry Lee",
+  description: "Software Engineer with over 5 years of experience building scalable, reliable, and user-focused applications. I specialize in full-stack development using .NET, React, Angular, Node.js, cloud platforms, and modern DevOps practices. I enjoy solving complex technical problems, improving system performance, and taking ownership of products from design through production.",
   image: "/assets/images/about.jpg",
   stats: [
     {
@@ -17,6 +17,8 @@ export const aboutConfig = {
     },
   ],
   skills: [
+    ".net",
+    "C#",
     "Next.js",
     "React",
     "TypeScript",
@@ -30,23 +32,11 @@ export const aboutConfig = {
     title: "Experience",
     items: [
       {
-        period: "2022 - Present",
-        role: "Senior Frontend Developer",
-        company: "Tencent Cloud",
-        description: "Leading frontend development for EdgeOne platform and templates."
+        period: "2025 - Present",
+        role: "Software Enigneer",
+        company: "Gene By Gene",
+        description: "Leading the design and development of scalable, reliable software solutions for a Laboratory Information Management System (LIMS)."
       },
-      {
-        period: "2020 - 2022",
-        role: "Frontend Developer",
-        company: "Tencent Cloud",
-        description: "Developed and maintained multiple web applications and tools."
-      },
-      {
-        period: "2018 - 2020",
-        role: "Junior Developer",
-        company: "Tencent Cloud",
-        description: "Worked on various client projects and internal tools."
-      }
     ]
   },
   connect: {
@@ -59,7 +49,7 @@ export const aboutConfig = {
       },
       email: {
         text: "email",
-        url: "mailto:[EMAIL_ADDRESS]"
+        url: "mailto:altafdas3989989@outlook.com"
       }
     }
   }

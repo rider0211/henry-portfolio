@@ -13,6 +13,7 @@ export default function AboutContent() {
             <p className="text-sm leading-6 text-neutral-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg">
               {aboutConfig.description}
             </p>
+
             <div className="mt-auto pt-4 flex flex-wrap gap-2">
               {aboutConfig.skills.map((skill, index) => (
                 <span key={index} className="px-3 py-1 text-sm bg-neutral-200 dark:bg-neutral-700 text-neutral-700 dark:text-neutral-200 rounded-full">

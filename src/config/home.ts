@@ -1,6 +1,6 @@
 export const homeConfig = {
-  greeting: "Hello, I'm Your Name",
-  description: "A passionate frontend developer with a keen eye for design and a love for creating beautiful, functional web experiences.",
+  greeting: "Hello, I'm Henry Lee",
+  description: "A passionate Senior Software Engineer with a strong focus on building scalable, reliable, and user-friendly software solutions that deliver real business value.",
   buttons: {
     viewProjects: "View Projects",
     readPosts: "Read Posts"

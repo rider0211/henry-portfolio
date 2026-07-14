@@ -1,8 +1,8 @@
 export const globalConfig = {
   site: {
-    name: "Your Portfolio Name",
-    author: "Your Name",
-    description: "A brief description of your portfolio website",
+    name: "Henry Lee",
+    author: "Henry Lee",
+    description: "Henry Lee portfolio website",
     url: "/"
   },
   navigation: {
@@ -10,7 +10,7 @@ export const globalConfig = {
     items: [
       {
         title: "Home",
-        href: "/"
+        href: "/about"
       },
       {
         title: "Projects",
@@ -19,20 +19,15 @@ export const globalConfig = {
       {
         title: "Posts",
         href: "/posts"
-      },
-      {
-        title: "About",
-        href: "/about"
       }
     ]
   },
   footer: {
     aria: "Footer Navigation",
-    copyright: "© 2025 Your Name. All rights reserved ",
+    copyright: "© 2026  All rights reserved ",
     social: {
-      twitter: "#",
-      github: "#",
-      email: "[EMAIL_ADDRESS]"
+      github: "https://github.com/rider0211",
+      email: "altafdas3989989@outlook.com"
     }
   }
 } as const; 
