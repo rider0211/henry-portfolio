@@ -3,7 +3,7 @@ export const globalConfig = {
     name: "Henry Lee",
     author: "Henry Lee",
     description: "Henry Lee portfolio website",
-    url: "/"
+    url: "/about"
   },
   navigation: {
     aria: "Main Navigation",
